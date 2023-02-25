@@ -9,6 +9,7 @@ Screenshot:
 transaction hash of contract init in text format: 
 2410ec7d0261dcfdd1d92933014caa9805c494e2411ef6e308037afadab87e72
 
+Reference in text format: 
 a40ef5b13ef750983a6eac0fcd1487a0959281bf3418aa2f33a3e104e7993b39
 
 ## Step 2: Init
