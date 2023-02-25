@@ -11,7 +11,7 @@ transaction hash of contract init in text format:
 
 a40ef5b13ef750983a6eac0fcd1487a0959281bf3418aa2f33a3e104e7993b39
 
-##Step 2: Init
+## Step 2: Init
 Screenshot: 
 <img width="1465" alt="Screenshot 2023-02-26 at 02 43 07" src="https://user-images.githubusercontent.com/125534593/221376961-5d6ebc10-8b0c-48c0-9f1b-064a4733431b.png">
 
